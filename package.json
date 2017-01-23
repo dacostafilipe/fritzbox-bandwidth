@@ -1,0 +1,23 @@
+{
+  "name": "fritzbox-bandwidth",
+  "version": "1.0.0",
+  "description": "Request actual used bandwidth of your fritzbox internet connect",
+  "scripts": {
+    "start": "node ./main.js"
+  },
+  "author": "Filipe DA COSTA",
+  "license": "MIT",
+  "dependencies": {
+    "superagent": "2.0.0",
+    "xmljson": "0.2.0"
+  },
+  "devDependencies": {
+    "babel-core": "6.9.1",
+    "babel-eslint": "6.0.4",
+    "babel-loader": "^6.0.1",
+    "babel-preset-es2015": "6.9.0",
+    "babel-preset-stage-0": "^6.0.15",
+    "babel-register": "6.9.0",
+    "dotenv": "2.0.0"
+  }
+}

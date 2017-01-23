@@ -1,2 +1,3 @@
-# fritzbox
-Access your Fitzbox over your network and query information
+# fritzbox-bandwidth
+
+Get the actual bandwidth usage from your fritzbox
